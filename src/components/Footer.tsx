@@ -45,6 +45,7 @@ export default function Footer({ prev, next }: FooterProps) {
       ) : (
         <span />
       )}
+      <div>测试1234</div>
     </nav>
   );
 }
